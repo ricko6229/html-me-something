@@ -8,6 +8,18 @@ h2 {
 div.author {
     text-align: center;
 }
+div.Chapter2 {
+    background-color: teal;
+}
+#theend {
+    margin-bottom: 50px;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
 body {
     background-color: #cccccc;
     background-image: black url(/images/paper.jpg) no-repeat center top;
